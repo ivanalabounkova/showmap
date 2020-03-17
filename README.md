@@ -3,7 +3,7 @@ Matlab code for vizualization of 2D statistical parametric map in linear or loga
 
 Cite as:
 
-Labounkova Ivana, Labounek Rene, Nestrasil Igor and Kolar Radim(2020). showmap (https://github.com/ivanalabounkova/showmap), GitHub.
+Labounkova Ivana, Labounek Rene, Nestrasil Igor and Kolar Radim(2020). showmap, GitHub. URL: https://github.com/ivanalabounkova/showmap
 
 ![](images/linear_scale.png)
 ![](images/logarithmic_scale.png)
